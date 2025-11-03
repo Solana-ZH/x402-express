@@ -9,7 +9,7 @@ import { wrap } from "@faremeter/fetch";
 import { solana } from "@faremeter/info";
 import dotenv from "dotenv";
 import { ProxyAgent, setGlobalDispatcher } from "undici";
-import { Network, Asset } from "./types.d.js";
+import { Network, Asset } from "./types.js";
 import { asset } from "./config.js";
 dotenv.config();
 

@@ -3,7 +3,7 @@ import { express as middleware } from "@faremeter/middleware";
 import { solana } from "@faremeter/info";
 import { PublicKey } from "@solana/web3.js";
 import { payToAddress, network, asset, amount } from "../config.js";
-import { Network, Asset } from "../types.d.js";
+import { Network, Asset } from "../types.js";
 
 const router: Router = Router();
 
