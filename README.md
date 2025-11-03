@@ -244,3 +244,10 @@ Payment configuration is centralized in `src/config.ts`. You can customize:
 - Use different addresses for development and production
 - Monitor your Solana wallet balance to ensure sufficient USDC for testing
 - The facilitator handles payment verification, so your server doesn't need direct blockchain access
+
+
+## 🤝 Contribution
+
+Contributed by [cevin](https://github.com/v1xingyue) from [Solar](https://www.solar.team/).
+
+Feel free to raise issues or submit PRs for future improvements.
