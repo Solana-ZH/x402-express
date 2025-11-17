@@ -7,7 +7,8 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "client": "tsx src/client.ts"
+    "client": "tsx src/client.ts",
+    "server": "tsx src/server.ts"
   },
   "dependencies": {
     "@faremeter/fetch": "^0.11.0",
