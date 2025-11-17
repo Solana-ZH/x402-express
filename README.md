@@ -25,6 +25,9 @@ The `/api/protected` endpoint requires a payment of **100 USDC** to access. It u
 # Start the server (configure for your deployment platform)
 # For Vercel:
 vercel dev
+
+# Without Vcrcel:
+npm run server
 ```
 
 ### Configuration
